@@ -14,24 +14,38 @@ body,html,div,h1{
 
 h1.title{
 	font-size:30px;
+	text-align:center;
 }
 
 body{
 	background-color:black;
 }
 
-#c{
+div.c{
 	color:white;
 	margin:2%;
 	padding:2%;
-	background-color:#615d5c;
+	background-color:#2b2c2d;
 }
 
 p{
 	font-size:20px;
-}
+}i
 
 img{
 	height:auto%;
 	width:100%;
+}
+
+a{
+	text-decoration:none;
+	color:white;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+ul{
+	text-align:center;
 }
